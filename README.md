@@ -10,7 +10,7 @@ This is a starter project which consist of basic components that are commonly us
 
 1. This project contains 3 flavors:
 
-- development
+- development1321321
 - staging
 - production
 
