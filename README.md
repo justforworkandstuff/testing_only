@@ -11,7 +11,7 @@ This is a starter project which consist of basic components that are commonly us
 1. This project contains 3 flavors:
 
 - development
-- staging
+- staging2222
 - production
 
 2. To run the desired flavor either use the launch configuration in VSCode/Android Studio or use the following commands:
